@@ -1,0 +1,500 @@
+   56  git init
+   57  git commit -m "Online Store"
+   58  git add -A
+   59  git status
+   60  git remote add origin https://github.com/siyandajamce/OnlineStoreApplication.git
+   61  git push -u origin master
+   62  git remote add origin https://github.com/siyandajamce/OnlineStoreApplication.gi
+   63  git push -u origin master
+   64  git remote add origin https://github.com/siyandajamce/OnlineStoreApplication.git
+   65  git push -u origin master
+   66  clear
+   67  git status
+   68  git commit -m "local application"
+   69  git remote add origin https://github.com/siyandajamce/LocalApplication.git
+   70  git push -u origin master
+   71  git remote rm origin
+   72  git remote add origin https://github.com/siyandajamce/LocalApplication.git
+   73  git push -u origin master
+   74  npm start
+   75  npm start
+   76  npm start
+   77  npm start
+   78  clear
+   79  npm start
+   80  clear
+   81  npm start
+   82  npm start
+   83  npm start
+   84  clear
+   85  npm start
+   86  clear
+   87  npm start
+   88  clear
+   89  npm start
+   90  npm start
+   91  NPM START
+   92  npm start
+   93  npm start
+   94  clear 
+   95  npm start
+   96  clear
+   97  npm start
+   98  clear
+   99  npm start
+  100  clear
+  101  npm start
+  102  CLEAR
+  103  npm start
+  104  clear 
+  105  npm start
+  106  NPM START
+  107  CLEAR
+  108  npm start
+  109  clear
+  110  npm start
+  111  clear
+  112  npm start
+  113  clear
+  114  npm start
+  115  clear
+  116  npm start
+  117  clear
+  118  npm start
+  119  npm start
+  120  clear
+  121  npm start
+  122  clear
+  123  npm start
+  124  npm start
+  125  clear
+  126  npm start
+  127  clear
+  128  npm start
+  129  clear
+  130  npm start
+  131  clear
+  132  npm start
+  133  clear
+  134  npm start
+  135  clear
+  136  npm start
+  137  npm start
+  138  clear
+  139  npm start
+  140  npm start
+  141  npm start
+  142  npm start
+  143  npm start
+  144  clear
+  145  npm start
+  146  clear
+  147  npm start
+  148  npm start
+  149  npm start
+  150  npm start
+  151  npm start
+  152  npm start
+  153  npm start
+  154  npm start
+  155  npm start
+  156  npm start
+  157  npm start
+  158  npm start
+  159  npm start
+  160  npm start
+  161  npm start
+  162  npm start
+  163  clear
+  164  npm start
+  165  npm start
+  166  clear
+  167  npm start
+  168  npm start
+  169  npm start
+  170  npm start
+  171  cd  C:\Users\T540P\WorkBench\react-todo-list-part-8-start\npm-debug.log
+  172  cd /c/Users/T540P/WorkBench/react-todo-list-part-8-start\npm-debug.log
+  173  cd  C:\Users\T540P\WorkBench\react-todo-list-part-8-start\npm-debug.log
+  174  cd  C:\Users\T540P\WorkBench\react-todo-list-part-8-start\npm-debug.log\npm-debug.log
+  175  cd workbench
+  176  clear
+  177  git https://github.com/siyandajamce/LocalApplication.git
+  178  git clone https://github.com/siyandajamce/LocalApplication.git
+  179  git clone https://github.com/siyandajamce/LocalApplication.git
+  180  clear
+  181  npm start
+  182  npm start
+  183  npm start
+  184  npm start
+  185  clear
+  186  npm start
+  187  clear
+  188  npm start
+  189  clear
+  190  npm start
+  191  clear
+  192  npm start
+  193  clear
+  194  npm start
+  195  clear
+  196  npm start
+  197  clear
+  198  npm start
+  199  npm start
+  200  clear
+  201  npm start
+  202  npm start
+  203  clear
+  204  npm start
+  205  npm start
+  206  npm start
+  207  npm start
+  208  npm start
+  209  clear
+  210  npm start
+  211  npm start
+  212  npm start
+  213  npm start
+  214  npm start
+  215  npm start
+  216  npm start
+  217  npm start
+  218  npm start
+  219  npm start
+  220  npm start
+  221  npm start
+  222  npm start
+  223  npm start
+  224  npm start
+  225  npm start
+  226  npm start
+  227  npm start
+  228  npm start
+  229  npm start
+  230  npm start
+  231  npm start
+  232  npm start
+  233  npm start
+  234  npm start
+  235  npm start
+  236  npm start
+  237  npm start
+  238  npm start
+  239  npm star
+  240  npm start
+  241  git add -A
+  242  git status
+  243  git remote rm origin
+  244  git remote add origin https://github.com/siyandajamce/FinalProject.git
+  245  git push -u origin master
+  246  clear
+  247  npm start
+  248  npm start
+  249  npm start
+  250  npm start
+  251  clear
+  252  npm start
+  253  npm start
+  254  clear
+  255  npm start
+  256  npm start
+  257  clear
+  258  npm start
+  259  clear
+  260  npm start
+  261  npm start
+  262  clear
+  263  npm start
+  264  clear
+  265  npm start
+  266  npm start
+  267  clear
+  268  npm start
+  269  clear
+  270  npm start
+  271  clear
+  272  npm start
+  273  clear
+  274  npm start
+  275  clear
+  276  npm start
+  277  clear
+  278  npm start
+  279  clear
+  280  npm start
+  281  npm start
+  282  npm start
+  283  color -A
+  284  npm start
+  285  npm start
+  286  npm start
+  287  clear
+  288  npm start
+  289  npm start
+  290  npm start
+  291  clear
+  292  npm start
+  293  npm start
+  294  clear
+  295  npm start
+  296  npm start
+  297  npm start
+  298  npm start
+  299  clear
+  300  npm start
+  301  npm start
+  302  npm start
+  303  npm start
+  304  npm start
+  305  npm start
+  306  clear
+  307  npm start
+  308  npm start
+  309  npm start
+  310  npm start
+  311  npm start
+  312  npm start
+  313  npm start
+  314  npm start
+  315  npm start
+  316  npm start
+  317  npm start
+  318  npm start
+  319  clear
+  320  npm start
+  321  npm install react-mdc-web
+  322  npm startA
+  323  npm startAdc
+  324  npm startAdcreact
+  325  npm start
+  326  npm start
+  327  npm start
+  328  npm start
+  329  clear
+  330  npm start
+  331  clear
+  332  npm start
+  333  clear
+  334  npm start
+  335  npm start
+  336  npm start
+  337  clea
+  338  clear
+  339  npm start
+  340  npm start
+  341  clear
+  342  npm start
+  343  clear
+  344  npm start
+  345  npm start
+  346  npm start
+  347  npm start
+  348  npm start
+  349  npm start
+  350  npm start
+  351  npm start
+  352  npm start
+  353  npm start
+  354  npm start
+  355  npm start
+  356  npm start
+  357  npm start
+  358  npm start
+  359  npm start
+  360  npm start
+  361  npm start
+  362  npm start
+  363  npm start
+  364  npm start
+  365  npm start
+  366  npm start
+  367  npm start
+  368  npm start
+  369  npm start
+  370  npm start
+  371  npm start
+  372  npm start
+  373  npm start
+  374  npm start
+  375  npm start
+  376  npm start
+  377  npm start
+  378  npm start
+  379  npm start
+  380  npm start
+  381  npm start
+  382  npm start
+  383  npm start
+  384  cd ~/desktop/
+  385  git clone https://github.com/Mons1Oerjan/KRUSH.git
+  386  cd test-repo
+  387  git remote -v
+  388  cd ~/desktop/
+  389   git clone https://github.com/Mons1Oerjan/KRUSH.git
+  390  cd ~/desktop/
+  391  git clone https://github.com/Mons1Oerjan/KRUSH.git
+  392  cd ~/desktop/
+  393  git clone https://github.com/Mons1Oerjan/KRUSH.git
+  394  cd ~/desktop/
+  395   git clone https://github.com/Mons1Oerjan/KRUSH.git
+  396  cd ~/desktop/
+  397  git clone https://github.com/corneliouzbett/MedicationManager.git
+  398  cd ~/desktop/
+  399   git clone https://github.com/corneliouzbett/MedicationManager.git
+  400   git clone https://github.com/Mons1Oerjan/KRUSH.git
+  401  cd -/desktop/
+  402  cd ~/desktop/
+  403  git clone https://github.com/Android-Tutorials-Hub/login-register-sqlite-tutorial.git
+  404  git clone https://github.com/Android-Tutorials-Hub/login-register-sqlite-tutorial.git
+  405  cd ~/desktop/
+  406  git clone https://github.com/Android-Tutorials-Hub/login-register-sqlite-tutorial.git
+  407  git init
+  408  git add .
+  409  git init
+  410  git add project
+  411  cd ~
+  412  cd Desktop/
+  413  git clone https://github.com/siyandajamce/University.git
+  414  cd university
+  415  git status
+  416  git add project
+  417  git add .
+  418  git commit -m "website commit"
+  419  cd Desktop/
+  420  cd Desktop/
+  421  cd ..
+  422  cd project
+  423  git add .
+  424  cd university
+  425  .git
+  426  del index.lock
+  427  rm -f ./.gti/index.lock
+  428  git add.
+  429  git add .
+  430  rm -f ./.gti/index.lock
+  431  git add .
+  432  pwd
+  433  cd project
+  434  git init
+  435  git add .
+  436  git config core.autocrlf true
+  437  git add .
+  438  git commit -m "website commit"
+  439  git remote add giHub https://github.com/siyandajamce/University.git
+  440  git remote -v
+  441  git push -f github master
+  442  git push -f origin master
+  443  git push -f university master
+  444  git push -f University master
+  445  cd c
+  446  cd desktop
+  447  git remite -v
+  448  git remote -v
+  449  git remote add upstream https://github.com/siyandajamce/University.git
+  450  git remote -v
+  451  git push origin
+  452  git push origin master
+  453  git push --set-upstream origin master
+  454  git log
+  455  git push origin master
+  456  mkdir git-basic-exercise
+  457  cd git-basic-exercise
+  458  cd master
+  459  mkdir git-basic-exercises
+  460  cd git-basic-excercises
+  461  rmdir git-basic-exercise
+  462  del git-basic-exercise
+  463  rm git-basic-exercise
+  464  rm -r git-basic-exercise
+  465  mkdir git-basic-exercises
+  466  cd git-basic-exercises
+  467  ls
+  468  ls -a
+  469  git init
+  470  ls -a
+  471  git status
+  472  touch README.md
+  473  ls -a
+  474  git status
+  475  git log
+  476  git add README.md
+  477  git status
+  478  git add README.md
+  479  git status
+  480  git --checkout README.md
+  481  git status
+  482  git --checkout README.md
+  483  git status
+  484  git add README.md
+  485  git status
+  486  git -- checkout README.md
+  487  git status
+  488  git --checkout README.md
+  489  git status
+  490  git reset HEAD README.md
+  491  git status
+  492  git rm --cached README.md
+  493  git status
+  494  git add README.md
+  495  git status
+  496  git commit -m "initial commit"
+  497  git log
+  498  q
+  499  wq
+  500  exit
+  501  nano REAME.md
+  502  nano README.md
+  503  cd git-basic-exercises
+  504  nano README.md
+  505  sudo apt-get install nano
+  506  apt-get install sudo
+  507  apt-get help
+  508  locate apt-get
+  509  locate apt-get
+  510  sudo dpkg -i apt -xxx.deb
+  511  yum search httpd
+  512  bash -c "README.md"
+  513  install -y nano
+  514  powershell Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+  515  git config –global core.editor “winpty nano”
+  516  nano README.md
+  517  winpty nano
+  518  cat README.md
+  519  git stats
+  520  git commit -m "second commit"
+  521  git add README.md
+  522  git status
+  523  git commit -m "second commit"
+  524  winpty nano
+  525  cat README.md
+  526  status
+  527  git status
+  528  git add README.md
+  529  git status
+  530  git commit -m "third commit"
+  531  git log
+  532  git checkout 8ce521174756b198798fb2c0d1b562567a7b56e3
+  533  cat README.md
+  534  git checkout master
+  535  cat README.md
+  536  git branch
+  537  git branch 8ce521174756b198798fb2c0d1b562567a7b56e3
+  538  git branch milkshake-flavours
+  539  git checkout milkshake-flavours
+  540  git branch
+  541  winpty nano
+  542  touch milkshakes.md
+  543  winpty nano
+  544  git status
+  545  git add milkshakes.md
+  546  git status
+  547  git commit -m 
+  548  git commit -m "added initial flavours"
+  549  git log
+  550  git checkout master
+  551  git branch history
+  552  git checkout history
+  553  git log
+  554  git branch
+  555  history > history.txt
